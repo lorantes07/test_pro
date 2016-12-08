@@ -1,12 +1,12 @@
 {
-    "contents" : "---\ntitle: \"index\"\nauthor: \"Lucia\"\ndate: \"December 8, 2016\"\noutput:\n  html_document:\n    theme: spacelab\n---\n\n# This is a website for R demos!\n\nSee me RRRRR.dsfdshfds\n\n[DREWSKEY FOR LIFE](adnguyen.github.io)",
+    "contents" : "---\ntitle: \"index\"\nauthor: \"Lucia\"\ndate: \"December 8, 2016\"\noutput:\n  html_document:\n    theme: spacelab\n---\n\n# This is a website for R demos!\n\nSee me RRRRR.dsfdshfds\n\n[DREWSKEY FOR LIFE](http://adnguyen.github.io)",
     "created" : 1481215296181.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "851404681",
+    "hash" : "3564294822",
     "id" : "8DCFD43",
-    "lastKnownWriteTime" : 1481215353,
+    "lastKnownWriteTime" : 1481215445,
     "path" : "~/Desktop/test_pro/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
