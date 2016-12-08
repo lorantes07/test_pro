@@ -2,9 +2,13 @@
 title: "index"
 author: "Lucia"
 date: "December 8, 2016"
-output: html_document
+output:
+  html_document:
+    theme: spacelab
 ---
 
 # This is a website for R demos!
 
-See me RRRRR.
+See me RRRRR.dsfdshfds
+
+[DREWSKEY FOR LIFE](adnguyen.github.io)

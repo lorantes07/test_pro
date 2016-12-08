@@ -1,0 +1,16 @@
+{
+    "contents" : "---\ntitle: \"index\"\nauthor: \"Lucia\"\ndate: \"December 8, 2016\"\noutput:\n  html_document:\n    theme: spacelab\n---\n\n# This is a website for R demos!\n\nSee me RRRRR.dsfdshfds\n\n[DREWSKEY FOR LIFE](adnguyen.github.io)",
+    "created" : 1481215296181.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "851404681",
+    "id" : "8DCFD43",
+    "lastKnownWriteTime" : 1481215353,
+    "path" : "~/Desktop/test_pro/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
